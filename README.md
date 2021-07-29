@@ -13,5 +13,5 @@ Esta pagina web de una Api (de pixa bay, donde comence a trabajar con la libreri
 (lagrimas de felicidad 👀).
 
 #### Descripción:
-En este proyecto encontraremos una aplicacion realizada con reactjs donde podremos buscar por nombres imagenes de lo que querramos, utilice tantop componentes de clases como de funciones para practicar de las dos formas 😎.
+En este proyecto encontraremos una aplicacion realizada con reactjs donde podremos buscar por nombres imagenes de lo que querramos, utilice tanto componentes de clases como de funciones para practicar de las dos formas 😎. El estilo esta realizado con Bootstrap
 En este caso utilice la Api de pixa bay( graciassss pixa bai ;D ).
